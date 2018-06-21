@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eb65230d-ce02-4ea0-8c61-ee39af7e40be" name="tomcat" url="https：//47.94.175.236">
+        <fileTransfer port="0" mountedRoot="E:\嘉座美食网" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
